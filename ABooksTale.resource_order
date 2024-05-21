@@ -15,11 +15,16 @@
     {"name":"Sprites","order":1,"path":"folders/Sprites.yy",},
     {"name":"Background","order":2,"path":"folders/Sprites/Background.yy",},
     {"name":"Character","order":1,"path":"folders/Sprites/Character.yy",},
+    {"name":"UI","order":4,"path":"folders/Sprites/UI.yy",},
     {"name":"Obstacles","order":3,"path":"folders/Sprites/Obstacles.yy",},
     {"name":"Tile Sets","order":2,"path":"folders/Tile Sets.yy",},
     {"name":"Timelines","order":8,"path":"folders/Timelines.yy",},
   ],
   "ResourceOrderSettings":[
+    {"name":"obj_camera","order":3,"path":"objects/obj_camera/obj_camera.yy",},
+    {"name":"obj_play_btn","order":1,"path":"objects/obj_play_btn/obj_play_btn.yy",},
+    {"name":"obj_quit_btn","order":2,"path":"objects/obj_quit_btn/obj_quit_btn.yy",},
     {"name":"Level1","order":1,"path":"rooms/Level1/Level1.yy",},
+    {"name":"spr_quit_btn","order":1,"path":"sprites/spr_quit_btn/spr_quit_btn.yy",},
   ],
 }
