@@ -1,0 +1,6 @@
+enum GAME_STATUS
+{
+	IN_PROGRESS,
+	LOST,
+	WON
+}
