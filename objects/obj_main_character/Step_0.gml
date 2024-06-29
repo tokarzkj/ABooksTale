@@ -5,7 +5,7 @@ move_x = keyboard_check(ord("D")) - keyboard_check(ord("A"));
 move_x *= move_speed;
 
 var _tilemap = layer_tilemap_get_id("Obstacle_tiles");
-var _collisions = [_tilemap, obj_shelf];
+var _collisions = [_tilemap, obj_shelf, obj_closing_book];
 
 if (place_meeting(x, y+5, _collisions) || place_meeting(x, y, obj_animated_shelf))
 {

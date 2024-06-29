@@ -44,6 +44,7 @@
   "resources":[
     {"id":{"name":"obj_animated_shelf","path":"objects/obj_animated_shelf/obj_animated_shelf.yy",},},
     {"id":{"name":"obj_camera","path":"objects/obj_camera/obj_camera.yy",},},
+    {"id":{"name":"obj_closing_book","path":"objects/obj_closing_book/obj_closing_book.yy",},},
     {"id":{"name":"obj_end_game_text","path":"objects/obj_end_game_text/obj_end_game_text.yy",},},
     {"id":{"name":"obj_faucet1","path":"objects/obj_faucet1/obj_faucet1.yy",},},
     {"id":{"name":"obj_faucet2","path":"objects/obj_faucet2/obj_faucet2.yy",},},
