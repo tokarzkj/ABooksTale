@@ -5,9 +5,11 @@ move_x = keyboard_check(ord("D")) - keyboard_check(ord("A"));
 move_x *= move_speed;
 
 var _tilemap = layer_tilemap_get_id("Obstacle_tiles");
-var _collisions = [_tilemap, obj_shelf, obj_closing_book];
+var _collisions = [_tilemap, obj_shelf];
 
-if (place_meeting(x, y+5, _collisions) || place_meeting(x, y, obj_animated_shelf))
+var _precise_collisions = [obj_animated_shelf, obj_closing_book];
+
+if (place_meeting(x, y+5, _collisions) || place_meeting(x, y, _precise_collisions))
 {
 	move_y = 0;
 	if (keyboard_check(ord("W"))) move_y = -jump_speed;
