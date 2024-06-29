@@ -2,3 +2,5 @@
 
 _animation_count = 0;
 image_speed = 0;
+_respawn_x = x;
+_respawn_y = y;
