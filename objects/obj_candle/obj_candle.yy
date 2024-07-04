@@ -1,16 +1,15 @@
 {
   "$GMObject":"",
-  "%Name":"obj_faucet2",
+  "%Name":"obj_candle",
   "eventList":[
-    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
-    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":2,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
+    {"$GMEvent":"v1","%Name":"","collisionObjectId":{"name":"obj_main_character","path":"objects/obj_main_character/obj_main_character.yy",},"eventNum":0,"eventType":4,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
   ],
   "managed":true,
-  "name":"obj_faucet2",
+  "name":"obj_candle",
   "overriddenProperties":[],
   "parent":{
-    "name":"level1",
-    "path":"folders/Objects/obstacles/level1.yy",
+    "name":"obstacles",
+    "path":"folders/Objects/obstacles.yy",
   },
   "parentObjectId":null,
   "persistent":false,
@@ -30,7 +29,10 @@
   "resourceType":"GMObject",
   "resourceVersion":"2.0",
   "solid":false,
-  "spriteId":null,
+  "spriteId":{
+    "name":"spr_candle",
+    "path":"sprites/spr_candle/spr_candle.yy",
+  },
   "spriteMaskId":null,
-  "visible":false,
+  "visible":true,
 }

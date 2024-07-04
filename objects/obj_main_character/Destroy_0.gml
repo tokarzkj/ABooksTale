@@ -18,7 +18,7 @@ else
 	{
 		case "Level2":
 			_respawn_x = 10;
-			_respawn_y = 200;
+			_respawn_y = 925;
 		break;
 	}
 	

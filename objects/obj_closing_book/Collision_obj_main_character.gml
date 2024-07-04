@@ -1,7 +1,7 @@
 /// @description Insert description here
 // You can write your code in this 
 if (alarm_get(0) == -1) {
-	alarm[0] = game_get_speed(gamespeed_fps);
+	alarm[0] = game_get_speed(gamespeed_fps) * 0.5;
 }
 
 if (other.move_y > 0) {

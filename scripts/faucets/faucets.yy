@@ -1,5 +1,5 @@
 {
-  "$GMScript":"",
+  "$GMScript":"v1",
   "%Name":"faucets",
   "isCompatibility":false,
   "isDnD":false,

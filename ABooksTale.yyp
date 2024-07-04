@@ -38,12 +38,13 @@
   "isEcma":false,
   "LibraryEmitters":[],
   "MetaData":{
-    "IDEVersion":"2024.4.1.152",
+    "IDEVersion":"2024.6.0.157",
   },
   "name":"ABooksTale",
   "resources":[
     {"id":{"name":"obj_animated_shelf","path":"objects/obj_animated_shelf/obj_animated_shelf.yy",},},
     {"id":{"name":"obj_camera","path":"objects/obj_camera/obj_camera.yy",},},
+    {"id":{"name":"obj_candle","path":"objects/obj_candle/obj_candle.yy",},},
     {"id":{"name":"obj_closing_book","path":"objects/obj_closing_book/obj_closing_book.yy",},},
     {"id":{"name":"obj_end_game_text","path":"objects/obj_end_game_text/obj_end_game_text.yy",},},
     {"id":{"name":"obj_faucet1","path":"objects/obj_faucet1/obj_faucet1.yy",},},
@@ -66,6 +67,7 @@
     {"id":{"name":"spr_animated_shelf","path":"sprites/spr_animated_shelf/spr_animated_shelf.yy",},},
     {"id":{"name":"spr_background","path":"sprites/spr_background/spr_background.yy",},},
     {"id":{"name":"spr_bookshelf","path":"sprites/spr_bookshelf/spr_bookshelf.yy",},},
+    {"id":{"name":"spr_candle","path":"sprites/spr_candle/spr_candle.yy",},},
     {"id":{"name":"spr_closing_book","path":"sprites/spr_closing_book/spr_closing_book.yy",},},
     {"id":{"name":"spr_finish","path":"sprites/spr_finish/spr_finish.yy",},},
     {"id":{"name":"spr_goal","path":"sprites/spr_goal/spr_goal.yy",},},

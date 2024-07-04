@@ -26,6 +26,7 @@
   "ResourceOrderSettings":[
     {"name":"obj_animated_shelf","order":1,"path":"objects/obj_animated_shelf/obj_animated_shelf.yy",},
     {"name":"obj_camera","order":3,"path":"objects/obj_camera/obj_camera.yy",},
+    {"name":"obj_candle","order":4,"path":"objects/obj_candle/obj_candle.yy",},
     {"name":"obj_closing_book","order":3,"path":"objects/obj_closing_book/obj_closing_book.yy",},
     {"name":"obj_end_game_text","order":7,"path":"objects/obj_end_game_text/obj_end_game_text.yy",},
     {"name":"obj_faucet2","order":1,"path":"objects/obj_faucet2/obj_faucet2.yy",},
@@ -42,6 +43,7 @@
     {"name":"spr_animated_shelf","order":3,"path":"sprites/spr_animated_shelf/spr_animated_shelf.yy",},
     {"name":"spr_background","order":1,"path":"sprites/spr_background/spr_background.yy",},
     {"name":"spr_bookshelf","order":2,"path":"sprites/spr_bookshelf/spr_bookshelf.yy",},
+    {"name":"spr_candle","order":5,"path":"sprites/spr_candle/spr_candle.yy",},
     {"name":"spr_closing_book","order":4,"path":"sprites/spr_closing_book/spr_closing_book.yy",},
     {"name":"spr_finish","order":2,"path":"sprites/spr_finish/spr_finish.yy",},
     {"name":"spr_goal","order":2,"path":"sprites/spr_goal/spr_goal.yy",},
